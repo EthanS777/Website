@@ -18,11 +18,11 @@ document.addEventListener("DOMContentLoaded", () => {
 particlesJS('particles-js', {
   particles: {
     number: { value: 70, density: { enable: true, value_area: 400 } },
-    color: { value: "#99ffcc" },
-    shape: { type: "circle", stroke: { width: 2, color: "#00ff80" } },
-    opacity: { value: 0.4 },
+    color: { value: "#a5f3fc" },
+    shape: { type: "circle", stroke: { width: 1, color: "#22d3ee" } },
+    opacity: { value: 0.28 },
     size: { value: 1, random: true },
-    line_linked: { enable: true, distance: 90, color: "#ffff00", opacity: 0.4, width: 3 }
+    line_linked: { enable: true, distance: 90, color: "#67e8f9", opacity: 0.24, width: 1 }
   },
   retina_detect: true
 });
